@@ -6,9 +6,9 @@ https://en.wikipedia.org/wiki/ECMAScript#Versions
 
 ## Features
 
-https://github.com/lukehoban/es6features
+Luke Hoban from Microsoft has an exellent page about the features of ES6: [https://github.com/lukehoban/es6features](https://github.com/lukehoban/es6features)
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla
+Another good source is the [https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla](Mozilla Developer Network) which has an excellent description of objects and methods. Here is an [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array](example of the Array object).
 
 
 
