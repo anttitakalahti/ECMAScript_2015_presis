@@ -12,6 +12,6 @@ Another good source is the [Mozilla Developer Network](https://developer.mozilla
 which has an excellent description of objects and methods. 
 Here is an [example of the Array object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array).
 
+### Symbols
 
-
-
+[Private properties in JavaScript by Curiosity driven](https://curiosity-driven.org/private-properties-in-javascript)
