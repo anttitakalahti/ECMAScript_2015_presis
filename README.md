@@ -15,3 +15,7 @@ Here is an [example of the Array object](https://developer.mozilla.org/en-US/doc
 ### Symbols
 
 [Private properties in JavaScript by Curiosity driven](https://curiosity-driven.org/private-properties-in-javascript)
+
+## Babel REPL
+
+You can try it out using the [Babel REPL](http://babeljs.io/repl).
