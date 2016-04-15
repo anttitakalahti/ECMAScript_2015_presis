@@ -6,15 +6,19 @@ https://en.wikipedia.org/wiki/ECMAScript#Versions
 
 ## Features
 
-Luke Hoban from Microsoft has an exellent page about the features of ES6: [https://github.com/lukehoban/es6features](https://github.com/lukehoban/es6features)
+Luke Hoban from Microsoft has an excellent page about the features of ES6: [https://github.com/lukehoban/es6features](https://github.com/lukehoban/es6features)
 
-Another good source is the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla) 
+Another awesome source is the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla) 
 which has an excellent description of objects and methods. 
 Here is an [example of the Array object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array).
 
 ### Symbols
 
 [Private properties in JavaScript by Curiosity driven](https://curiosity-driven.org/private-properties-in-javascript)
+
+## Promises in browserland
+
+["Bluebird is a full featured promise library with unmatched performance."](https://github.com/petkaantonov/bluebird)
 
 ## Babel REPL
 
